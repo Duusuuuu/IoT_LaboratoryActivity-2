@@ -17,5 +17,5 @@ Instructions:
 
 This github link contains the following:
 - .ino file of the Activity
-- Breadboard diagram
+- Breadboard diagram. https://www.tinkercad.com/things/8CfmcWGUj4r-lab-activity-2?sharecode=ISPccFlOe7LfP548JsEt8hM4P1kV1kLiU1XWxFfIfAI
 - Individual grades of the members
